@@ -1,0 +1,24 @@
+[
+    {
+        "question": "What is Rive?", 
+        "answer1": "A K-pop group", 
+        "answer2": "An amazing tool", 
+        "answer3": "A exotic animal", 
+        "solution": 2
+    }, 
+    {
+        "question": "Which is the default size of an Artboard?",
+        "answer1": "500x500", 
+        "answer2": "200x200",
+        "answer3": "1920x1080",
+        "solution": 1
+    }, 
+    {
+       "question": "Who is the voice of Rive?",
+       "answer1": "Michael",
+       "answer2": "Robert", 
+       "answer3": "Pedro",
+       "solution":     2
+    }
+    
+]
